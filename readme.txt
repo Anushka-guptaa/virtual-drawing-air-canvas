@@ -63,7 +63,5 @@ External Resources:
 - Real-time webcam input only
 
 Created By:
------------
 Anushka Gupta  
-Roll No: 102303358 
-Thapar Institute of Engineering & Technology
+
