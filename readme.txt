@@ -60,7 +60,7 @@ Upper HSV: [170, 255, 255]
 External Resources:
 -------------------
 - No datasets used
-- Real-time webcam input only
+- Real-time webcam input 
 
 Created By:
 Anushka Gupta  
